@@ -1,10 +1,9 @@
+import Header from "./Header/Header";
 
 
 function App() {
   return (
-    <div>
-      Hello react app!!!
-    </div>
+    <Header/>
   );
 }
 
